@@ -7,8 +7,14 @@ public:
                 str += tolower(ch);
             }
         }
-        string reversed(str.rbegin(),str.rend());
-       // return str ==  string(str.rbegin(), str.rend());
-       return str == reversed;
+        int l = 0, r = str.size() - 1;
+        while (l < r) {
+            if (str[l] != str[r]) {
+                return false;
+            }
+            l++;
+            r--;
+        }
+        return true;
     }
 };
