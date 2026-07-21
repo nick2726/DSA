@@ -7,6 +7,8 @@ public:
                 str += tolower(ch);
             }
         }
-        return str ==  string(str.rbegin(), str.rend());
+        string reversed(str.rbegin(),str.rend());
+       // return str ==  string(str.rbegin(), str.rend());
+       return str == reversed;
     }
 };
