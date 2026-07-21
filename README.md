@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nick2726/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/nick2726/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nick2726/DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nick2726/DSA/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nick2726/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
