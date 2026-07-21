@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nick2726/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nick2726/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nick2726/DSA/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/nick2726/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nick2726/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Divide and Conquer
 |  |
@@ -62,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nick2726/DSA/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/nick2726/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nick2726/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/nick2726/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
