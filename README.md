@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nick2726/DSA/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/nick2726/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nick2726/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/nick2726/DSA/tree/master/0217-contains-duplicate) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nick2726/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/nick2726/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nick2726/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nick2726/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nick2726/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nick2726/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nick2726/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/nick2726/DSA/tree/master/0680-valid-palindrome-ii) |
