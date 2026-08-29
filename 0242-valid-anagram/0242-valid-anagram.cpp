@@ -1,21 +1,20 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int n=s.size();
-        int m=t.size();
-        unordered_map<int,int> mpp1;
-        for(int i=0;i<n;i++){
+        int n = s.size();
+        int m = t.size();
+        if (n != m) {
+            return false;
+        }
+        unordered_map<char, int> mpp1;
+        for (int i = 0; i < n; i++) {
             mpp1[s[i]]++;
         }
-        unordered_map<int,int> mpp2;
-        for(int i=0;i<m;i++){
+
+        unordered_map<char, int> mpp2;
+        for (int i = 0; i < n; i++) {
             mpp2[t[i]]++;
         }
-        if(mpp1==mpp2){
-            return true;
-        }
-        return false;
-
-        
+        return mpp1 == mpp2 ? true : false;
     }
 };
