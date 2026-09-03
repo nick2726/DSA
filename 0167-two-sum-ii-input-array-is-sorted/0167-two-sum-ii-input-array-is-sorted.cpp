@@ -4,15 +4,12 @@ public:
         int n = numbers.size();
         int l = 0, r = n - 1;
         while (l < r) {
-            int sum = numbers[l] + numbers[r];
-            if (sum > target) {
+            if (numbers[l] + numbers[r] > target)
                 r--;
-            } else if (sum < target) {
+            else if (numbers[l] + numbers[r] < target)
                 l++;
-            } else {
-                return {l + 1, r + 1};
-            }
+            else
+                return {numbers[l], numbers[r]};
         }
-        return {};
     }
 };
