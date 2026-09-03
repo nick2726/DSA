@@ -9,7 +9,8 @@ public:
             else if (numbers[l] + numbers[r] < target)
                 l++;
             else
-                return {numbers[l], numbers[r]};
+                return {l + 1, r + 1};
         }
+        return -1;
     }
 };
